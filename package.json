@@ -4,7 +4,7 @@
   },
   "config": {
     "commitizen": {
-      "path": ".src/node_modules/cz-conventional-changelog"
+      "path": "./src/node_modules/cz-conventional-changelog"
     }
   }
 }
